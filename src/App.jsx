@@ -8,7 +8,7 @@ function App() {
     <>
       <Container className="my-5 main">
         <section className="text-light">
-          <h1 className="text-center display-4">Lista de tareas</h1>
+          <h1 className="text-center display-4">Lista de tareas 2023</h1>
           <hr />
         </section>
         <FormularioTarea></FormularioTarea>
